@@ -7,7 +7,7 @@ public class Gunboat1 {
 		Scanner reader = new Scanner(System.in);
 		System.out.print("Enter distance to target. /n");
 		double d = reader.nextDouble();
-		System.out.print("Enter the height of the battery relative to the ater line. /n");
+		System.out.print("Enter the height of the battery relative to the water line. /n");
 		double h = reader.nextDouble();
 		System.out.print("Enter the initial velocity of the shell. /n");
 		double v = reader.nextDouble();
